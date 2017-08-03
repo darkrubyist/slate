@@ -65,11 +65,11 @@ export default function(program) {
           writePackageJsonSync(pkg, dirName);
 
           if (options.yarn) {
-            return startProcess('yarn', ['add', '@t-kelly/slate-tools', '--dev', '--exact'], {
+            return startProcess('yarn', ['add', 't-kelly-slate-tools', '--dev', '--exact'], {
               cwd: root,
             });
           } else {
-            return startProcess('npm', ['install', '@t-kelly/slate-tools', '--save-dev', '--save-exact'], {
+            return startProcess('npm', ['install', 't-kelly-slate-tools', '--save-dev', '--save-exact'], {
               cwd: root,
             });
           }

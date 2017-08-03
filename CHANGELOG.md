@@ -6,7 +6,7 @@
 **Merged pull requests:**
 
 - Docs new getting started [\#205](https://github.com/Shopify/slate/pull/205) ([NathanPJF](https://github.com/NathanPJF))
-- Use @t-kelly/slate-tools v0.3.3 [\#203](https://github.com/Shopify/slate/pull/203) ([NathanPJF](https://github.com/NathanPJF))
+- Use t-kelly-slate-tools v0.3.3 [\#203](https://github.com/Shopify/slate/pull/203) ([NathanPJF](https://github.com/NathanPJF))
 - 0.11.0 [\#202](https://github.com/Shopify/slate/pull/202) ([NathanPJF](https://github.com/NathanPJF))
 - Help users avoid resetting their theme data [\#201](https://github.com/Shopify/slate/pull/201) ([t-kelly](https://github.com/t-kelly))
 - Update settings for header section [\#198](https://github.com/Shopify/slate/pull/198) ([t-kelly](https://github.com/t-kelly))

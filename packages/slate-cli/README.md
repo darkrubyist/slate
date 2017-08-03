@@ -17,7 +17,7 @@ and speed up the process of developing, testing and deploying themes to Shopify 
 #### 1. Get the latest version
 
 ```shell
-npm install -g @t-kelly/slate
+npm install -g t-kelly-slate
 ```
 
 _note: if you get an **`EACCES`** error, refer to [Fixing npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions)_
@@ -76,7 +76,7 @@ You're ready to start developing with Slate.  To get started, run the following 
 ## Updating Slate
 
 ```shell
-npm install @t-kelly/slate --global
+npm install t-kelly-slate --global
 ```
 
 ## Global commands

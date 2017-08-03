@@ -18,7 +18,7 @@ The steps below walk through installing Slate globally and configuring your deve
 
 ### Create a new project
 
-1. Install Slate with `npm install -g @t-kelly/slate`.
+1. Install Slate with `npm install -g t-kelly-slate`.
 2. Create a new theme with `slate theme theme-name`, where `theme-name` will be a newly created folder.
   * If you already have a theme locally, you can use the `slate migrate` command and [follow these steps](/slate/commands/#migrate) instead.
 

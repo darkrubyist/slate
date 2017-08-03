@@ -1,6 +1,6 @@
 {
-  "name": "@t-kelly/slate-tools",
-  "version": "0.12.0",
+  "name": "t-kelly-slate-tools",
+  "version": "0.11.0",
   "description": "Tooling for Shopify themes",
   "main": "lib/gulpfile.js",
   "license": "MIT",

@@ -19,7 +19,7 @@
   "scripts": {
     "test": "node_modules/.bin/lerna run test",
     "lint": "node_modules/.bin/lerna run lint",
-    "bootstrap": "node_modules/.bin/lerna bootstrap",
+    "bootstrap": "npm install && node_modules/.bin/lerna bootstrap",
     "publish": "git pull origin master && node_modules/.bin/lerna publish",
     "changelog": "node_modules/.bin/lerna-changelog --tag-from"
   },

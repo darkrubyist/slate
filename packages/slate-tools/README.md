@@ -1,13 +1,13 @@
-# @t-kelly/slate-tools
+# t-kelly-slate-tools
 [![CircleCI](https://circleci.com/gh/Shopify/slate-tools.svg?style=svg&circle-token=0b8147527ef88134b4238064a563ceaaae98f06a)](https://circleci.com/gh/Shopify/slate-tools)
 
 Tooling for Shopify themes using [Slate](https://github.com/Shopify/slate).
 
-Best used in conjunction with the [Slate CLI](https://www.npmjs.com/package/@t-kelly/slate) package.
+Best used in conjunction with the [Slate CLI](https://www.npmjs.com/package/t-kelly-slate) package.
 
 ## Installation
 ```bash
-$ npm install @t-kelly/slate-tools
+$ npm install t-kelly-slate-tools
 ```
 
 ## Documentation
