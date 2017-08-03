@@ -31,7 +31,7 @@ function checkForSlateTools(themeRoot) {
   const pkgPath = join(themeRoot, 'package.json');
   const pkg = require(pkgPath);
 
-  return hasDependency('@shopify/slate-tools', pkg);
+  return hasDependency('@t-kelly/slate-tools', pkg);
 }
 
 /**
@@ -70,7 +70,7 @@ const themeRoot = getThemeRoot(workingDirectory);
 const isSlateTheme = (themeRoot && checkForSlateTools(themeRoot));
 
 if (isSlateTheme) {
-  const slateToolsCommands = join(themeRoot, normalize('/node_modules/@shopify/slate-tools/lib/commands'));
+  const slateToolsCommands = join(themeRoot, normalize('/node_modules/@t-kelly/slate-tools/lib/commands'));
 
   readdirSync(slateToolsCommands)
     .filter((file) => ~file.search(/^[^\.].*\.js$/)) // eslint-disable-line no-useless-escape
