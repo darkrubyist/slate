@@ -43,8 +43,7 @@
     "eslint": "3.10.2",
     "eslint-plugin-import": "2.7.0",
     "eslint-plugin-node": "3.0.4",
-    "eslint-plugin-shopify": "15.1.0",
-    "t-kelly-slate-cli": "^0.12.3"
+    "eslint-plugin-shopify": "15.1.0"
   },
   "scripts": {
     "clean": "rm -rf lib/",

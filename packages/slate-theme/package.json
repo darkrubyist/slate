@@ -22,6 +22,7 @@
   },
   "devDependencies": {
     "jest": "^20.0.4",
-    "t-kelly-slate-tools": "^0.12.4"
+    "t-kelly-slate-tools": "^0.12.4",
+    "t-kelly-slate-cli": "^0.12.3"
   }
 }
