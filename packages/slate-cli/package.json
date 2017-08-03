@@ -1,5 +1,5 @@
 {
-  "name": "@shopify/slate",
+  "name": "@t-kelly/slate",
   "version": "0.11.0",
   "description": "Slate CLI tools",
   "bin": {
