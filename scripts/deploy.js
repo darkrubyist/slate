@@ -8,7 +8,7 @@ const tag = require('../lerna.json').version;
 const DEFAULT_CONTENT_TYPE = 'application/zip';
 const S3_DIR = 'slate';
 const DEFAULT_CACHE_CONTROL = 'public, max-age=86400';
-const ZIP_DIR = 'packages/slate-theme/upload';
+const ZIP_DIR = 'upload';
 const DIST_DIR = 'packages/slate-theme/dist';
 const DIST_FILES = [
   'assets/theme.js',
