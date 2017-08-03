@@ -12,7 +12,7 @@ const archiver = require('archiver');
  * @param files Files to include as part of the zip
  */
 function _buildZip(name, directories = [], files = []) {
-  const output = fs.createWriteStream(`packages/slate-theme/upload/${name}.zip`);
+  const output = fs.createWriteStream(`upload/${name}.zip`);
   const archive = archiver('zip');
 
   output.on('close', () => {
