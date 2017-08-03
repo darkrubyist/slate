@@ -16,5 +16,5 @@ deployment:
     owner: t-kelly
     commands:
       - npm run bootstrap
-      - packages/slate-theme/node_modules/.bin/slate zip
+      - cd packages/slate-theme && ./node_modules/.bin/slate zip
       - node scripts/build
