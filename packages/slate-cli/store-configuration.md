@@ -39,3 +39,5 @@ and copy the `id` for the theme you would like to update:
   Assign the private app permissions to "Read and Write" for theme templates and theme assets:
 
   ![https://screenshot.click/17-09-owv1p-5lugl.png](https://screenshot.click/17-09-owv1p-5lugl.png)
+
+  Some enhancement
