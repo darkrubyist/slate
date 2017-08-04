@@ -1,6 +1,6 @@
 {
   "name": "slate-theme",
-  "version": "0.12.9",
+  "version": "0.13.0",
   "private": true,
   "author": "Shopify Inc.",
   "description": "A theme scaffold and command line tool for developing Shopify themes.",
@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "jest": "^20.0.4",
-    "t-kelly-slate": "^0.12.9",
-    "t-kelly-slate-tools": "^0.12.8"
+    "t-kelly-slate": "^0.13.0",
+    "t-kelly-slate-tools": "^0.13.0"
   }
 }
