@@ -1,5 +1,14 @@
 # Change Log
 
+## v0.12.9 (2017-08-04)
+
+#### :bug: Bug Fix
+* `slate-cli`
+  * [#4](https://github.com/t-kelly/slate/pull/4) Bug fix that fixes some bug. ([@t-kelly](https://github.com/t-kelly))
+
+#### Committers: 1
+- Thomas Kelly ([t-kelly](https://github.com/t-kelly))
+
 ## [v0.11.0](https://github.com/Shopify/slate/tree/v0.11.0) (2017-07-19)
 [Full Changelog](https://github.com/Shopify/slate/compare/v0.10.2...v0.11.0)
 
