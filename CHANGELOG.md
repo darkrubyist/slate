@@ -1,5 +1,14 @@
 # Change Log
 
+## v0.13.0 (2017-08-04)
+
+#### :rocket: Enhancement
+* `slate-cli`
+  * [#5](https://github.com/t-kelly/slate/pull/5) Some enhancement that adds some new feature. ([@t-kelly](https://github.com/t-kelly))
+
+#### Committers: 1
+- Thomas Kelly ([t-kelly](https://github.com/t-kelly))
+
 ## v0.12.9 (2017-08-04)
 
 #### :bug: Bug Fix
