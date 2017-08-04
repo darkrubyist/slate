@@ -26,3 +26,5 @@ All developers who wish to contribute through code or issues, take a look at the
 MIT, see [LICENSE](http://github.com/Shopify/slate/blob/master/LICENSE) for details.
 
 <img src="https://cdn.shopify.com/shopify-marketing_assets/builds/19.0.0/shopify-full-color-black.svg" width="200" />
+
+Some other enhancement

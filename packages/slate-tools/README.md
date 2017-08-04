@@ -28,4 +28,4 @@ MIT, see [LICENSE.md](http://github.com/Shopify/slate-tools/blob/master/LICENSE.
 
 <img src="https://cdn.shopify.com/shopify-marketing_assets/builds/19.0.0/shopify-full-color-black.svg" width="200" />
 
-Come more changes
+Some other enhancement
